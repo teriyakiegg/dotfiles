@@ -1,8 +1,19 @@
-source /usr/local/etc/bash_completion.d/git-prompt.sh
-source /usr/local/etc/bash_completion.d/git-completion.bash
+function git_branch {
+        git branch --no-color 2>/dev/null | sed -ne "s/^\* \(.*\)$/\1/p"
+}
+function promps {
+        # color list
+        local BLUE="\[\e[1;34m\]"
+        local RED="\[\e[1;31m\]"
+        local GREEN="\[\e[1;32m\]"
+        local WHITE="\[\e[00m\]"
+        local GRAY="\[\e[1;37m\]"
+        local CYAN="\[\e[1;36m\]"
 
-GIT_PS1_SHOWDIRTYSTATE=true
-export PS1='\h\[\033[00m\]:\W\[\033[31m\]$(__git_ps1 [%s])\[\033[00m\]\$ '
+        PS1="${GREEN}(*'ω')< ${BLUE}\W${RED} [\$(git_branch)]${WHITE}\$ "
+}
+
+promps
 
 alias gb='git branch'
 alias gst='git status'
