@@ -1,2 +1,8 @@
+[user]
+        name = teriyakiegg
+        email = teriyakiegg@gmail.com
 [core]
         pager = less -+$LESS -R
+        excludesfile = /Users/Teruaki/.gitignore_global
+[push]
+        default = simple
