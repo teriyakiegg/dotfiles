@@ -6,3 +6,5 @@
         excludesfile = /Users/Teruaki/.gitignore_global
 [push]
         default = simple
+[ghq]
+        root = ~/Git
