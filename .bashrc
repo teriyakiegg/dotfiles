@@ -69,7 +69,7 @@ alias cd.='cd ..'
 # ====================
 
 alias g='cd $(ghq root)/$(ghq list | peco)'
-bind -x '"\C-r": history | peco'
+bind -x '"\C-r": eval $(history | cut -c 28-|peco)'
 
 function pp() {
   local pushd_number=$(dirs -v | peco | perl -anE 'say $F[0]')
