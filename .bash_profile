@@ -7,6 +7,13 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
 # ====================
+# export
+# ====================
+
+export EDITOR='vim'
+export MANPAGER='less -X'
+
+# ====================
 # bashrc
 # ====================
 
