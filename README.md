@@ -1,4 +1,4 @@
-# dotfiles
+# teriyakiegg's dotfiles
 
 ## Thanks to…
 
