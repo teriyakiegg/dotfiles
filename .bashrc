@@ -44,6 +44,8 @@ alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
 
+alias t='tig'
+
 alias ll='ls -al'
 
 alias ba='vim ~/.bashrc'
