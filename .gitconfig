@@ -4,9 +4,11 @@
 [core]
         pager = less -+$LESS -R
         excludesfile = /Users/Teruaki/.gitignore_global
-[push]
-        default = simple
+[commit]
+        template = ~/.gitmessage
 [fetch]
         prune = true
+[push]
+        default = simple
 [ghq]
         root = ~/Git
