@@ -24,7 +24,6 @@ promps
 # ====================
 
 shopt -u histappend
-export HISTSIZE=9999
 function share_history {
     history -a
     history -c
