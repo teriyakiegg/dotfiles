@@ -4,6 +4,10 @@
 [core]
         pager = less -+$LESS -R
         excludesfile = /Users/Teruaki/.gitignore_global
+[commit]
+        template = ~/.gitmessage
+[fetch]
+        prune = true
 [push]
         default = simple
 [ghq]

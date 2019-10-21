@@ -1,0 +1,10 @@
+# F = fetch
+bind generic F      !git fetch
+bind main    F      !git fetch
+
+# U = pull
+bind generic U      !git pull
+
+# B = checkout -b
+bind main    B      ?git checkout -b “%(prompt Enter branch name: )” %(branch)
+bind refs    B      ?git checkout -b “%(prompt Enter branch name: )” %(branch)

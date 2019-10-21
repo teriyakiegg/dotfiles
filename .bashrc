@@ -24,7 +24,6 @@ promps
 # ====================
 
 shopt -u histappend
-export HISTSIZE=9999
 function share_history {
     history -a
     history -c
@@ -43,6 +42,8 @@ alias gfe='git fetch -p'
 alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
+
+alias t='tig'
 
 alias ll='ls -al'
 

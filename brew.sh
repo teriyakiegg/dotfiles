@@ -12,7 +12,7 @@ brew upgrade
 brew install git
 brew install tig
 brew install peco
-brew install hub
+brew install ghq
 
 # Remove outdated versions from the cellar.
 brew cleanup

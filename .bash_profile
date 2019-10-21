@@ -1,17 +1,19 @@
 # ====================
-# node and ruby
+# export
 # ====================
 
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
-
-# ====================
-# export
-# ====================
 
 export EDITOR='vim'
 export MANPAGER='less -X'
+export HISTSIZE=9999
+
+# ====================
+# ruby
+# ====================
+
+eval "$(rbenv init -)"
 
 # ====================
 # bashrc
