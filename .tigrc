@@ -1,0 +1,6 @@
+# F で fetch (default: :toggle file-name / :toggle commit-title-refs)
+bind generic F      !git fetch -p
+bind main    F      !git fetch -p
+
+# U で pull
+bind generic U      !git pull
