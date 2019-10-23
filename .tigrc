@@ -16,3 +16,4 @@ set refresh-mode = auto
 
 # main view customize
 set main-view = id date:local=yes author commit-title:graph=no,refs=yes
+set refs-view = id date:local=yes author:full ref
