@@ -7,6 +7,7 @@ alias gpul='git pull'
 
 alias g='cd $(ghq root)/$(ghq list | peco)'
 alias t='tig'
+alias v='vim'
 
 alias ll='ls -al'
 alias cd.='cd ..'
