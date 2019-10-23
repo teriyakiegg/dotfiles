@@ -20,5 +20,5 @@ eval "$(rbenv init -)"
 # ====================
 
 if [ -f ~/.bashrc ] ; then
-        . ~/.bashrc
+  . ~/.bashrc
 fi
