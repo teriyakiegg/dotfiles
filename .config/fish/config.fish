@@ -22,7 +22,12 @@ function fish_user_key_bindings
   bind \cr 'peco_sync_select_history (commandline -b)'
 end
 
+# ====================
+# set
+# ====================
+
 set GHQ_SELECTOR peco
+set -g theme_color_scheme solarized-dark
 
 # ====================
 # aliases
