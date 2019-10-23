@@ -1,0 +1,3 @@
+[submodule "iterm/palenight-iterm2"]
+	path = iterm/palenight-iterm2
+	url = https://github.com/JonathanSpeek/palenight-iterm2.git
