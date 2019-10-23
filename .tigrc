@@ -13,3 +13,6 @@ bind generic B      ?git checkout -b "%(prompt Enter branch name: )" %(branch)
 
 # auto refresh
 set refresh-mode = auto
+
+# show commit id
+set main-view = id date author commit-title:graph=yes,refs=yes
