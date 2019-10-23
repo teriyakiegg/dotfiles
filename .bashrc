@@ -72,5 +72,5 @@ function pp() {
 # ====================
 
 if [ -f ~/.aliases ] ; then
-. ~/.aliases
+  source ~/.aliases
 fi
