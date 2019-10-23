@@ -14,6 +14,6 @@ bind generic B      ?git checkout -b "%(prompt Enter branch name: )" %(branch)
 # auto refresh
 set refresh-mode = auto
 
-# main view customize
+# view customize
 set main-view = id date:local=yes author commit-title:graph=no,refs=yes
 set refs-view = id date:local=yes author:full ref
