@@ -1,3 +1,13 @@
+# ====================
+# ruby
+# ====================
+
+status --is-interactive; and source (rbenv init -|psub)
+
+# ====================
+# functions
+# ====================
+
 function history-merge --on-event fish_preexec
   history --save
   history --merge
@@ -26,9 +36,10 @@ alias gdi='git diff'
 alias gpul='git pull'
 
 alias t='tig'
+alias v='vim'
 
 alias ll='ls -al'
+alias cd.='cd ..'
 
 alias ba='vim ~/.bashrc'
 alias so='source ~/.bashrc'
-
