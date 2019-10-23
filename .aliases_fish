@@ -1,0 +1,2 @@
+alias fi='vim ~/.config/fish/config.fish'
+alias so='source ~/.config/fish/config.fish'

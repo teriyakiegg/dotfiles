@@ -5,13 +5,9 @@ alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
 
-alias g='cd $(ghq root)/$(ghq list | peco)'
 alias t='tig'
 alias v='vim'
 
 alias ll='ls -al'
 alias mkdir='mkdir -p'
 alias cd.='cd ..'
-
-alias ba='vim ~/.bashrc'
-alias so='source ~/.bashrc'

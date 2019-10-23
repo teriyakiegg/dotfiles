@@ -33,18 +33,10 @@ set -g theme_color_scheme solarized-dark
 # aliases
 # ====================
 
-alias gb='git branch'
-alias gst='git status'
-alias gfe='git fetch -p'
-alias gco='git checkout'
-alias gdi='git diff'
-alias gpul='git pull'
+if test -f ~/.aliases_common
+  source ~/.aliases_common
+end
 
-alias t='tig'
-alias v='vim'
-
-alias ll='ls -al'
-alias cd.='cd ..'
-
-alias ba='vim ~/.bashrc'
-alias so='source ~/.bashrc'
+if test -f ~/.aliases_fish
+  source ~/.aliases_fish
+end
