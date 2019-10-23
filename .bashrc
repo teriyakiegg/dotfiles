@@ -33,26 +33,6 @@ PROMPT_COMMAND='share_history'
 HISTTIMEFORMAT='%Y-%m-%d %T '
 
 # ====================
-# aliases
-# ====================
-
-alias gb='git branch'
-alias gst='git status'
-alias gfe='git fetch -p'
-alias gco='git checkout'
-alias gdi='git diff'
-alias gpul='git pull'
-
-alias t='tig'
-alias g='cd $(ghq root)/$(ghq list | peco)'
-
-alias ll='ls -al'
-alias cd.='cd ..'
-
-alias ba='vim ~/.bashrc'
-alias so='source ~/.bashrc'
-
-# ====================
 # cd customize
 # ====================
 
@@ -78,3 +58,11 @@ function pp() {
   pushd +$pushd_number
   return $?
 }
+
+# ====================
+# aliases
+# ====================
+
+if [ -f ~/.aliases ] ; then
+. ~/.aliases
+fi
