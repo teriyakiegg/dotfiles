@@ -5,6 +5,12 @@ bind main    F      !git fetch
 # U = pull
 bind generic U      !git pull
 
+# P = push
+bind generic P      ?git push -u %(remote) %(repo:head)
+
 # B = checkout -b
 bind main    B      ?git checkout -b “%(prompt Enter branch name: )” %(branch)
 bind refs    B      ?git checkout -b “%(prompt Enter branch name: )” %(branch)
+
+# auto refresh
+set refresh-mode = auto
