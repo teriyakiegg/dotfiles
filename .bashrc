@@ -44,8 +44,10 @@ alias gdi='git diff'
 alias gpul='git pull'
 
 alias t='tig'
+alias g='cd $(ghq root)/$(ghq list | peco)'
 
 alias ll='ls -al'
+alias cd.='cd ..'
 
 alias ba='vim ~/.bashrc'
 alias so='source ~/.bashrc'
@@ -63,13 +65,11 @@ function cd {
         pushd "$1" > /dev/null
     fi
 }
-alias cd.='cd ..'
 
 # ====================
 # peco
 # ====================
 
-alias g='cd $(ghq root)/$(ghq list | peco)'
 bind -x '"\C-r": eval $(history | cut -c 28-|peco)'
 
 function pp() {
