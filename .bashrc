@@ -71,6 +71,10 @@ function pp() {
 # aliases
 # ====================
 
-if [ -f ~/.aliases ] ; then
-  source ~/.aliases
+if [ -f ~/.aliases_common ] ; then
+  source ~/.aliases_common
+fi
+
+if [ -f ~/.aliases_bash ] ; then
+  source ~/.aliases_bash
 fi
