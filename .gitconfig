@@ -8,7 +8,11 @@
         template = ~/.gitmessage
 [fetch]
         prune = true
+[pull]
+        ff = only
 [push]
         default = simple
+[merge]
+        ff = false
 [ghq]
         root = ~/Git
