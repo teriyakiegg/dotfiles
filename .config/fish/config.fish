@@ -35,8 +35,6 @@ end
 # ====================
 
 set GHQ_SELECTOR peco
-set -g theme_color_scheme solarized-dark
-set -g theme_display_ruby no
 
 # ====================
 # aliases
