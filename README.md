@@ -1,6 +1,6 @@
 # teriyakiegg's dotfiles
 
-![dotfiles](https://user-images.githubusercontent.com/12130065/67159677-ea142e80-f382-11e9-8912-f8d501cbb3c4.png)
+![dotfiles](https://user-images.githubusercontent.com/12130065/67587986-f25bd780-f78f-11e9-927b-f8a61a245fd4.png)
 
 ## Thanks to…
 
