@@ -13,6 +13,7 @@
 - tig
 - peco
 - ghq
+- hub
 
 ## Login message
 
