@@ -29,6 +29,9 @@ end
 function fish_user_key_bindings
   bind \cr 'peco_sync_select_history (commandline -b)'
   bind \ct 'tig'
+  
+  bind \cf forward-word
+  bind \cb backward-word
 end
 
 # ====================
