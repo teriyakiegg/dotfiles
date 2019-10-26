@@ -8,7 +8,7 @@
 
 - fish
 
-## Favourite command line tools
+## Helpful command line tools
 
 - tig
 - peco
