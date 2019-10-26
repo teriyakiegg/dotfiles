@@ -2,3 +2,6 @@ alias g='cd $(ghq root)/$(ghq list | peco)'
 
 alias ba='vim ~/.bashrc'
 alias so='source ~/.bashrc'
+
+bind '"\C-f": forward-word'
+bind '"\C-b": backward-word'
