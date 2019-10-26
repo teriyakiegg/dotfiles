@@ -13,6 +13,7 @@ brew install git
 brew install tig
 brew install peco
 brew install ghq
+brew install hub
 brew install fish
 brew install fd
 
