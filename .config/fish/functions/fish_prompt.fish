@@ -287,7 +287,7 @@ end
 # ===========================
 
 function fish_prompt
-  imgcat $HOME/.config/iterm/yotsuba.png
+  imgcat $HOME/.config/images/yotsuba.png
   set -g RETVAL $status
   prompt_status
   prompt_virtual_env

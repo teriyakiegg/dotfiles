@@ -1,3 +1,3 @@
 function fish_greeting
-    cat $HOME/.config/iterm/yotsuba.ascii
+    cat $HOME/.config/images/yotsuba.ascii
 end
