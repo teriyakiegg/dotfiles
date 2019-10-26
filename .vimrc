@@ -6,6 +6,9 @@
 :set incsearch
 :set ignorecase
 :set smartcase
+:set ruler
+:set title
+:set wildmenu wildmode=list:full
 
 inoremap <silent> jj <ESC>
 
