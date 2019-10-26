@@ -5,3 +5,5 @@ alias so='source ~/.bashrc'
 
 bind '"\C-f": forward-word'
 bind '"\C-b": backward-word'
+
+bind -x '"\C-t": tig'
