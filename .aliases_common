@@ -12,4 +12,5 @@ alias ll='ls -al'
 alias mkdir='mkdir -p'
 alias cd.='cd ..'
 
+alias ghub='hub browse'
 alias gh='ghq list | peco | cut -d "/" -f 2,3 | xargs hub browse'
