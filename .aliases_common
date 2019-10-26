@@ -5,7 +5,6 @@ alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
 
-alias t='tig'
 alias v='vim'
 
 alias ll='ls -al'
