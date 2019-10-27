@@ -33,31 +33,10 @@ PROMPT_COMMAND='share_history'
 HISTTIMEFORMAT='%Y-%m-%d %T '
 
 # ====================
-# cd customize
-# ====================
-
-function cd {
-    if [ -z "$1" ] ; then
-        test "$PWD" != "$HOME" && pushd $HOME > /dev/null
-    elif ( echo "$1" | egrep "^\.\.\.+$" > /dev/null ) ; then
-        cd $( echo "$1" | perl -ne 'print "../" x ( tr/\./\./ - 1 )' )
-    else
-        pushd "$1" > /dev/null
-    fi
-}
-
-# ====================
 # peco
 # ====================
 
 bind -x '"\C-r": eval $(history | cut -c 28-|peco)'
-
-function pp() {
-  local pushd_number=$(dirs -v | peco | perl -anE 'say $F[0]')
-  [[ -z $pushd_number ]] && return 1
-  pushd +$pushd_number
-  return $?
-}
 
 # ====================
 # aliases
