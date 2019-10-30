@@ -1,2 +1,4 @@
 alias fi='vim ~/.config/fish/config.fish'
 alias so='source ~/.config/fish/config.fish'
+
+alias pr='set CURRENT_BRANCH (git name-rev --name-only HEAD); git branch | peco | xargs -I {} hub compare {}...$CURRENT_BRANCH'
