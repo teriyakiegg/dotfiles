@@ -49,3 +49,5 @@ fi
 if [ -f ~/.aliases_bash ] ; then
   source ~/.aliases_bash
 fi
+
+exec fish
