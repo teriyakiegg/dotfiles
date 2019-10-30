@@ -1,12 +1,4 @@
 # ====================
-# default shell
-# ====================
-
-if [ $SHELL != "/usr/local/bin/fish" ]
-  chsh -s /usr/local/bin/fish
-end
-
-# ====================
 # ruby
 # ====================
 
