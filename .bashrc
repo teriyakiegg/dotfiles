@@ -50,4 +50,8 @@ if [ -f ~/.aliases_bash ] ; then
   source ~/.aliases_bash
 fi
 
+# ====================
+# fish
+# ====================
+
 exec fish
