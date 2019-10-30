@@ -4,7 +4,7 @@
 
 ![prompt](https://user-images.githubusercontent.com/12130065/67587986-f25bd780-f78f-11e9-927b-f8a61a245fd4.png)
 
-## Default shell
+## Using shell
 
 - fish
 
