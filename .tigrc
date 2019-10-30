@@ -17,6 +17,9 @@ bind generic S      ?git stash save "%(prompt Enter stash comment: )"
 # M = merge
 bind refs    M      ?git merge origin/%(branch)
 
+# p = hub compare
+bind refs    p      ?hub compare %(branch)...%(repo:head)
+
 # auto refresh
 set refresh-mode = auto
 
