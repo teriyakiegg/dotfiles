@@ -40,6 +40,10 @@ if test -f ~/.aliases_common
   source ~/.aliases_common
 end
 
+if test -f ~/.aliases_local
+  source ~/.aliases_local
+end
+
 if test -f ~/.aliases_fish
   source ~/.aliases_fish
 end
