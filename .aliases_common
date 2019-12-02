@@ -6,6 +6,7 @@ alias gdi='git diff'
 alias gpul='git pull'
 
 alias v='vim'
+alias c='code'
 
 alias ll='ls -al'
 alias mkdir='mkdir -p'
