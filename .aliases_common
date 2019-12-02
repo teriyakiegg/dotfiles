@@ -14,7 +14,3 @@ alias cd.='cd ..'
 
 alias ghub='hub browse'
 alias gh='ghq list | peco | cut -d "/" -f 2,3 | xargs hub browse'
-
-if [ -f ~/.aliases_local ] ; then
-  source ~/.aliases_local
-fi
