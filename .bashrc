@@ -46,6 +46,10 @@ if [ -f ~/.aliases_common ] ; then
   source ~/.aliases_common
 fi
 
+if [ -f ~/.aliases_local ] ; then
+  source ~/.aliases_local
+fi
+
 if [ -f ~/.aliases_bash ] ; then
   source ~/.aliases_bash
 fi
