@@ -1,0 +1,12 @@
+# extensions
+- Bracket Pair Colorizer 2
+- Cobalt2 Theme Official
+- Code Spell Checker
+- Go
+- indent-rainbow
+- PlantUML
+- Power Mode
+- Ruby
+- Trailing Spaces
+- VSCode Ruby
+- vscode-icons
