@@ -1,0 +1,30 @@
+# preferences
+- About unnecessary channels: leave or mute
+- Notifications
+  - Notify me about…: Nothing
+- Language & Region
+  - Language: English
+- Messages & Media
+  - Theme: Compact
+  - Names: Just display names
+  - Additional options: 
+    - Display information about who is currently typing a message: uncheck
+  - Emoji
+    - Convert my typed emoticons to emoji, so :D becomes :smile: : uncheck
+- Themes
+  - Sidebar theme
+    - Nocturne
+- Sidebar
+  - Appearance
+    - Unreads and starred conversations: check
+  - Sorting & grouping
+    - Priority: check
+- Accessibility
+  - Zoom
+    - 70%
+- Advanced
+  - Input Options
+    - Format messages with markup: check
+    - Show send button: check
+  - Download Location
+    - Desktop
