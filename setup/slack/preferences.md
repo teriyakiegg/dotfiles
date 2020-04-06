@@ -1,7 +1,7 @@
 # preferences
 - About unnecessary channels: leave or mute
 - Notifications
-  - Notify me about…: Nothing
+  - Notify me about…: Direct messages, mentions & keywords
 - Language & Region
   - Language: English
 - Messages & Media
