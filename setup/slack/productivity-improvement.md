@@ -1,0 +1,2 @@
+# productivity improvement
+slackをチラチラ気にしすぎてしまうため、アプリはデスクトップ版ではなくブラウザ版を使う。
