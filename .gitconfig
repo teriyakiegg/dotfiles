@@ -16,3 +16,5 @@
         ff = false
 [ghq]
         root = ~/Git
+[hub]
+        host = github.com
