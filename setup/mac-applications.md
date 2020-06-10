@@ -1,0 +1,3 @@
+# Mac Applications
+- Karabiner
+- DeepL
