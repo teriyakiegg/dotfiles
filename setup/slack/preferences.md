@@ -5,8 +5,6 @@
 - Language & Region
   - Language: English
 - Messages & Media
-  - Theme: Compact
-  - Names: Just display names
   - Additional options: 
     - Display information about who is currently typing a message: uncheck
   - Emoji
