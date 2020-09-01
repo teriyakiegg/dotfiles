@@ -2,6 +2,7 @@
 
 - SearchPreview
 - Hacker Tab
+- Octotree
 - AdBlock
 - Block Site
 
