@@ -4,6 +4,7 @@
 - Hacker Tab
 - AdBlock
 - Block Site
+- EditThisCookie
 
 # Theme
 
