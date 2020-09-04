@@ -5,6 +5,7 @@
 - AdBlock
 - Block Site
 - EditThisCookie
+- Vue.js devtools
 
 # Theme
 
