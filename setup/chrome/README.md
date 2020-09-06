@@ -6,6 +6,7 @@
 - Block Site
 - EditThisCookie
 - Vue.js devtools
+- Tampermonkey
 
 # Theme
 
