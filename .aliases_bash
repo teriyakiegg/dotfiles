@@ -7,3 +7,4 @@ bind '"\C-f": forward-word'
 bind '"\C-b": backward-word'
 
 bind -x '"\C-t": tig'
+bind -x '"\C-g": g'
