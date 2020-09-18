@@ -27,3 +27,5 @@ else
 	fi;
 fi;
 unset doIt;
+
+# To install google cloud sdk: see https://cloud.google.com/sdk/docs/quickstart-macos?hl=ja
