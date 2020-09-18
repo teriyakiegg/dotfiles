@@ -5,6 +5,8 @@
 export PATH=$HOME/.nodebrew/current/bin:$PATH
 export PATH="$HOME/.rbenv/bin:$PATH"
 
+export PATH=/usr/local/google-cloud-sdk/bin:$PATH
+
 export EDITOR='vim'
 export MANPAGER='less -X'
 export HISTSIZE=9999
