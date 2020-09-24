@@ -20,4 +20,4 @@ alias lo='v ~/.aliases_local'
 
 alias fig='docker-compose'
 
-alias gr='go run'
+alias gr='go run *.go'
