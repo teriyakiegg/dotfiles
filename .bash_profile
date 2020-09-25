@@ -29,6 +29,13 @@ export PATH="$PATH:$GOPATH/bin"
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 # ====================
+# Google Cloud SDK
+# ====================
+
+if [ -f '/usr/local/google-cloud-sdk/path.bash.inc' ]; then . '/usr/local/google-cloud-sdk/path.bash.inc'; fi                                         
+if [ -f '/usr/local/google-cloud-sdk/completion.bash.inc' ]; then . '/usr/local/google-cloud-sdk/completion.bash.inc'; fi
+
+# ====================
 # bashrc
 # ====================
 
