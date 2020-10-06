@@ -13,6 +13,7 @@ alias mkdir='mkdir -p'
 alias cd.='cd ..'
 alias pg='pgrep -fl'
 alias pk='pkill -fl'
+alias resh='exec -l $SHELL'
 
 alias ghub='hub browse'
 alias gh='ghq list | peco | cut -d "/" -f 2,3 | xargs hub browse'
