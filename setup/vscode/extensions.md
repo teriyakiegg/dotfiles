@@ -10,3 +10,4 @@
 - Trailing Spaces
 - VSCode Ruby
 - vscode-icons
+- Rest Client
