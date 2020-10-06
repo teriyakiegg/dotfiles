@@ -1,3 +1,13 @@
 # Mac Applications
 - Karabiner
-- DeepL
+- Chrome
+- VSCode
+- Docker Desktop
+- Xcode
+- Notion
+- Sequel Ace
+- Postman
+- LINE
+- iTerm
+- iBoostUp
+- AppCleaner
