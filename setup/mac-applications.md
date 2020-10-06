@@ -6,7 +6,6 @@
 - Xcode
 - Notion
 - Sequel Ace
-- Postman
 - LINE
 - iTerm
 - iBoostUp
