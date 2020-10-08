@@ -6,6 +6,7 @@
 - Excel Viewer
 - Go
 - indent-rainbow
+- Partial Diff
 - PlantUML
 - Power Mode
 - Rest Client
