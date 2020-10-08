@@ -10,8 +10,6 @@
 - Rest Client
 - Ruby
 - Ruby Debug
-- SQLTools
-- SQLTools MySQL/MariaDB
 - Trailing Spaces
 - Vetur
 - VSCode Ruby
