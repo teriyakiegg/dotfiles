@@ -2,12 +2,17 @@
 - Bracket Pair Colorizer 2
 - Cobalt2 Theme Official
 - Code Spell Checker
+- Excel Viewer
 - Go
 - indent-rainbow
 - PlantUML
 - Power Mode
+- Rest Client
 - Ruby
+- Ruby Debug
+- SQLTools
+- SQLTools MySQL/MariaDB
 - Trailing Spaces
+- Vetur
 - VSCode Ruby
 - vscode-icons
-- Rest Client
