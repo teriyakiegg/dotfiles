@@ -2,6 +2,7 @@
 - Bracket Pair Colorizer 2
 - Cobalt2 Theme Official
 - Code Spell Checker
+- EditorConfig for VS Code
 - Excel Viewer
 - Go
 - indent-rainbow
