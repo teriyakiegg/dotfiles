@@ -5,6 +5,7 @@
 - Docker
 - EditorConfig for VS Code
 - Excel Viewer
+- GitHub Pull Requests and Issues
 - Go
 - indent-rainbow
 - Partial Diff
