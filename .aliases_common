@@ -4,6 +4,7 @@ alias gfe='git fetch -p'
 alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
+alias glazy='git commit -a --allow-empty-message -m ""; git push'
 
 alias v='vim'
 alias c='code'
