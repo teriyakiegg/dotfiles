@@ -1,4 +1,4 @@
-alias g='cd $(ghq list | peco | xargs ghq list --full-path --exact)'
+alias g='cd $(ghq list --full-path | peco)'
 
 alias ba='vim ~/.bashrc'
 alias so='source ~/.bashrc'
