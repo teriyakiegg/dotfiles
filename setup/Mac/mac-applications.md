@@ -10,3 +10,4 @@
 - iTerm
 - iBoostUp
 - AppCleaner
+- ngrok
