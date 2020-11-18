@@ -1,0 +1,2 @@
+# keyboard dictionary
+- さ: ▼
