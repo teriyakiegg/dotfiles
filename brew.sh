@@ -16,6 +16,7 @@ brew install ghq
 brew install hub
 brew install fish
 brew install fd
+brew install jq
 
 # Remove outdated versions from the cellar.
 brew cleanup
