@@ -5,7 +5,7 @@ alias gco='git checkout'
 alias gdi='git diff'
 alias gpul='git pull'
 alias gpush='git push'
-alias glazypush='git add .; git commit --allow-empty-message -m ""; git push'
+alias glazypush='git ls-files -co --exclude-standard | grep '\.md$' | xargs git add; git commit --allow-empty-message -m ""; git push'
 
 alias v='vim'
 alias c='code'
