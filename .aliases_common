@@ -20,7 +20,7 @@ alias resh='exec -l $SHELL'
 alias ghub='hub browse'
 alias gh='ghq list | peco | cut -d "/" -f 2,3 | xargs hub browse'
 
-alias til='c ~/Git/github.com/teriyakiegg/til'
+alias til='c ~/Git/github.com/teriyakiegg/til-v2'
 alias dot='c ~/Git/github.com/teriyakiegg/dotfiles'
 
 alias al='v ~/.aliases_common'
