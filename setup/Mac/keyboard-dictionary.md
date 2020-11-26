@@ -1,4 +1,6 @@
 # keyboard dictionary
+- あ: 芦野
+- あ: 芦野輝明
 - さ: ▼
 - し: ↓
 - み: →
