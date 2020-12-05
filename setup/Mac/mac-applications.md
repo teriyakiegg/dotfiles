@@ -11,3 +11,4 @@
 - iBoostUp
 - AppCleaner
 - ngrok
+- RunCat
