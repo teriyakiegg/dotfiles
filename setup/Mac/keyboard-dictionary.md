@@ -6,3 +6,4 @@
 - し: ↓
 - み: →
 - め: teriyakiegg@gmail.com
+- ぷ: +
