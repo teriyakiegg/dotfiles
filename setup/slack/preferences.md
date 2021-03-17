@@ -2,10 +2,12 @@
 - About unnecessary channels: leave or mute
 - Notifications
   - Notify me about…: Direct messages, mentions & keywords
+  - Sound & appearance
+    - Mute all sounds from Slack: check
 - Language & Region
   - Language: English
 - Messages & Media
-  - Additional options: 
+  - Additional options:
     - Display information about who is currently typing a message: uncheck
   - Emoji
     - Convert my typed emoticons to emoji, so :D becomes :smile: : uncheck
@@ -13,10 +15,13 @@
   - Sidebar theme
     - Nocturne
 - Sidebar
-  - Appearance
-    - Unreads and starred conversations: check
+  - Channels
+    - Show
+      - Unread channels only
   - Sorting & grouping
     - Priority: check
+  - Always show in the sidebar:
+    - uncheck all
 - Accessibility
   - Zoom
     - 70%
