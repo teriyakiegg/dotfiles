@@ -12,6 +12,7 @@
 - カレンダーはGoogleカレンダー
 - 天気とゴミの通知はあり。通知音はオフ
 - Slackの通知はバッジは出すがそれ以外はオフ
-- Gmailアプリ、Twitter、Facebook、ニュースアプリは無し
+- Gmailアプリ、YouTube、Twitter、Facebook、ニュースアプリは無し
 - 音楽アプリはYouTube Music
 - 交通アプリは無しでGoogle Mapで
+- ウィジェットはLINE、Notion、カレンダー
