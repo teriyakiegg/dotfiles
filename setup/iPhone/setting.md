@@ -15,4 +15,4 @@
 - Gmailアプリ、YouTube、Twitter、Facebook、ニュースアプリは無し
 - 音楽アプリはYouTube Music
 - 交通アプリは無しでGoogle Mapで
-- ウィジェットはLINE、Notion、カレンダー
+- ウィジェットはNotion、カレンダー
