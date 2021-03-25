@@ -1,9 +1,15 @@
 # keyboard dictionary
 - あ: 芦野
 - あ: 芦野輝明
+- う: ↑
 - け: └
 - さ: ▼
 - し: ↓
 - み: →
 - め: teriyakiegg@gmail.com
+- ひ: ←
 - ぷ: +
+- ま: ◎
+- み: →
+- め: teriyakiegg@gmail.com
+- ら: ラジオ体操とHIITとHANDCLAP
