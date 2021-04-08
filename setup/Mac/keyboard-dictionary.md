@@ -12,4 +12,4 @@
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
-- ら: ラジオ体操とHIITとHANDCLAPと水やりと床拭き(隔日)
+- ら: ラジオ体操とHIITとHANDCLAPと水やりと床拭き(隔日)と翌日の朝ごはん用意
