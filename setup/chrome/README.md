@@ -3,6 +3,7 @@
 - SearchPreview
 - Hacker Tab
 - AdBlock
+- BlockSite
 - EditThisCookie
 - Vue.js devtools
 - Tampermonkey
