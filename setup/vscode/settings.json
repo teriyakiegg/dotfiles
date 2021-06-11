@@ -1,0 +1,18 @@
+{
+  "editor.tabSize": 2,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.formatOnSave": true,
+  "extensions.ignoreRecommendations": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.autofetch": true,
+  "go.useLanguageServer": true,
+  "ruby.format": false,
+  "ruby.useLanguageServer": true,
+  "ruby.lint": "rubocop",
+  "ruby.intellisense": "rubyLocate",
+  "vsicons.dontShowNewVersionMessage": true,
+  "workbench.editor.untitled.hint": "hidden",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.colorTheme": "Cobalt2",
+}
