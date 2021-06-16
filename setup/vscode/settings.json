@@ -9,10 +9,13 @@
   "go.useLanguageServer": true,
   "ruby.format": false,
   "ruby.useLanguageServer": true,
-  "ruby.lint": "rubocop",
+  "ruby.lint": {
+    "rubocop": true
+  },
   "ruby.intellisense": "rubyLocate",
   "vsicons.dontShowNewVersionMessage": true,
   "workbench.editor.untitled.hint": "hidden",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Cobalt2",
+  "ruby.codeCompletion": "rcodetools",
 }
