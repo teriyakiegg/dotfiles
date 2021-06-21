@@ -3,6 +3,7 @@
 - Cobalt2 Theme Official
 - Code Spell Checker
 - Docker
+- Draw.io integration
 - EditorConfig for VS Code
 - Excel Viewer
 - GitHub Pull Requests and Issues
