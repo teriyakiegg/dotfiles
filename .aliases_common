@@ -29,3 +29,5 @@ alias lo='v ~/.aliases_local'
 alias fig='docker-compose'
 
 alias gr='go run *.go'
+
+alias r='rails'
