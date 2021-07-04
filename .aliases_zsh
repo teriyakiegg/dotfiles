@@ -1,0 +1,5 @@
+alias g='code $(ghq list --full-path | peco)'
+
+alias zs='vim ~/.zshrc'
+alias so='source ~/.zshrc'
+
