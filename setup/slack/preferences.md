@@ -13,7 +13,8 @@
     - Convert my typed emoticons to emoji, so :D becomes :smile: : uncheck
 - Themes
   - Sidebar theme
-    - Nocturne
+    - Pokémon Slack theme generator: #483 Dialga
+    - http://pokeslack.xyz/
 - Sidebar
   - Channels
     - Show
