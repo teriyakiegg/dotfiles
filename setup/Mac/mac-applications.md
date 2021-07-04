@@ -4,7 +4,6 @@
 - VSCode
 - Docker Desktop
 - Xcode
-- Notion
 - Sequel Ace
 - LINE
 - iTerm
