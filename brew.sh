@@ -18,5 +18,7 @@ brew install fish
 brew install fd
 brew install jq
 
+brew install --cask sequel-ace
+
 # Remove outdated versions from the cellar.
 brew cleanup
