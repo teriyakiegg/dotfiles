@@ -1,7 +1,6 @@
 # extensions
 - Bracket Pair Colorizer 2
 - Cobalt2 Theme Official
-- Code Spell Checker
 - Docker
 - Draw.io integration
 - EditorConfig for VS Code
