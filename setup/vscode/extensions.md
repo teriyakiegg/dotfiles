@@ -11,6 +11,7 @@
 - Partial Diff
 - PlantUML
 - Power Mode
+- Rails Go to Spec
 - Rest Client
 - Ruby
 - Ruby Debug
