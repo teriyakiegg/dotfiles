@@ -8,6 +8,7 @@
   - Adult Category
 - EditThisCookie
 - Vue.js devtools
+- Octotree
 
 # Theme
 
