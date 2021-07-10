@@ -10,4 +10,5 @@
 - Accessibility:
   - Pointer Control:
     - Trackpad Options:
+      - scrolling speed: Fast
       - enable dragging: three finger drag
