@@ -19,6 +19,7 @@ brew install fd
 brew install jq
 
 brew install --cask sequel-ace
+brew install --cask docker
 
 # Remove outdated versions from the cellar.
 brew cleanup
