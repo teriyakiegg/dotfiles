@@ -11,3 +11,4 @@
 - AppCleaner
 - ngrok
 - RunCat
+- Clipy
