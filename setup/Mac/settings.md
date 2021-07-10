@@ -1,6 +1,11 @@
 # settings
 - dock: invisible
 - time: Display the time with seconds, Flash the time separator, Show the day of the week, Show date
+- Battery:
+  - Battery:
+    - Trun display off after: 1hr
+  - Power Adapter:
+    - Trun display off after: 3hr
 - keyboard:
   - Key Repeat: Fast
   - Delay Until Repeat: Short
