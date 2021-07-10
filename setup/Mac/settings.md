@@ -6,7 +6,8 @@
   - Delay Until Repeat: Short
   - Caps Lock: Control
 - Trackpad:
-  Tracking speed: Fast
+  - Tap to click
+  - Tracking speed: Fast
 - Accessibility:
   - Pointer Control:
     - Trackpad Options:
