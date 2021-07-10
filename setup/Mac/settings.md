@@ -4,5 +4,10 @@
 - keyboard:
   - Key Repeat: Fast
   - Delay Until Repeat: Short
+  - Caps Lock: Control
 - Trackpad:
   Tracking speed: Fast
+- Accessibility:
+  - Pointer Control:
+    - Trackpad Options:
+      - enable dragging: three finger drag
