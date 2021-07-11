@@ -9,7 +9,6 @@ brew update
 brew upgrade
 
 # Install useful binaries.
-brew install git
 brew install tig
 brew install peco
 brew install ghq
