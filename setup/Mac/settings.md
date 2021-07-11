@@ -10,6 +10,8 @@
   - Key Repeat: Fast
   - Delay Until Repeat: Short
   - Caps Lock: Control
+  - Shortcuts
+    - disable: Show Spotlight search
 - Trackpad:
   - Tap to click
   - Tracking speed: Fast
