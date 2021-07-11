@@ -18,4 +18,8 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.colorTheme": "Cobalt2",
   "ruby.codeCompletion": "rcodetools",
+  "terminal.integrated.scrollback": 20000,
+  "workbench.editor.enablePreview": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
 }
