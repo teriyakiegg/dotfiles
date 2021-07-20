@@ -8,6 +8,7 @@
 - GitHub Pull Requests and Issues
 - Go
 - indent-rainbow
+- Java Extension Pack
 - Partial Diff
 - PlantUML
 - Power Mode

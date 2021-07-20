@@ -16,6 +16,8 @@ brew install hub
 brew install fish
 brew install fd
 brew install jq
+brew install java11
+brew install gradle
 
 brew install --cask sequel-ace
 brew install --cask docker

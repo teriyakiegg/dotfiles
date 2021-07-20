@@ -102,6 +102,12 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init - zsh)"
 
 # ====================
+# java
+# ====================
+
+export PATH="/usr/local/opt/openjdk@11/bin:$PATH"
+
+# ====================
 # aliases
 # ====================
 
