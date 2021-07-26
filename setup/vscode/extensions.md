@@ -4,6 +4,7 @@
 - Docker
 - Draw.io integration
 - EditorConfig for VS Code
+- ESLint
 - Excel Viewer
 - GitHub Pull Requests and Issues
 - Go
