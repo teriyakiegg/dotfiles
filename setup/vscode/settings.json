@@ -5,9 +5,8 @@
   "extensions.ignoreRecommendations": true,
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "git.autofetch": true,
   "go.useLanguageServer": true,
-  "ruby.format": false,
+  "ruby.format": "rubocop",
   "ruby.useLanguageServer": true,
   "ruby.lint": {
     "rubocop": true
@@ -22,4 +21,8 @@
   "workbench.editor.enablePreview": false,
   "security.workspace.trust.untrustedFiles": "open",
   "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "eslint.alwaysShowStatus": true,
+  "eslint.nodePath": "~/.nodebrew/node/v14.17.3/bin/eslint",
 }
