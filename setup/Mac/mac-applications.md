@@ -12,3 +12,4 @@
 - ngrok
 - RunCat
 - Clipy
+- Skitch
