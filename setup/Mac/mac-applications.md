@@ -13,3 +13,4 @@
 - RunCat
 - Clipy
 - Skitch
+- Google Japanese Input
