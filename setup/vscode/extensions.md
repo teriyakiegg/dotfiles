@@ -6,6 +6,7 @@
 - EditorConfig for VS Code
 - ESLint
 - Excel Viewer
+- Git Extension Pack
 - GitHub Pull Requests and Issues
 - Go
 - indent-rainbow
