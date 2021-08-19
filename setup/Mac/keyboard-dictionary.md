@@ -8,7 +8,6 @@
 - み: →
 - め: teriyakiegg@gmail.com
 - ひ: ←
-- ぷ: +
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
