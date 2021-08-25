@@ -31,3 +31,4 @@ alias fig='docker-compose'
 alias gr='go run *.go'
 
 alias r='rails'
+alias be='bundle exec'
