@@ -5,10 +5,10 @@
 - け: └
 - さ: ▼
 - し: ↓
+- す: Stretch&Watering&Cleaning floor(Wed)&Laundry&Prepare next day's breakfast&Take out garbage
 - み: →
 - め: teriyakiegg@gmail.com
 - ひ: ←
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
-- ら: ラジオ体操セットと水やりと床拭き(水曜)と洗濯(都度)と翌日の朝ごはん用意とゴミ捨て
