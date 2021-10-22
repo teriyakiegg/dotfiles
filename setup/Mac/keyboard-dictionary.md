@@ -5,10 +5,10 @@
 - け: └
 - さ: ▼
 - し: ↓
-- す: Stretch&Watering&Cleaning floor(Wed)&Laundry&Prepare next day's breakfast&Take out garbage
 - み: →
 - め: teriyakiegg@gmail.com
 - ひ: ←
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
+- s: Stretch & Watering & Cleaning floor(Wed) & Laundry & Prepare next day's breakfast & Take out garbage
