@@ -11,4 +11,4 @@
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
-- s: Stretch & Watering & Vacuuming & Laundry & Breakfast & Garbage
+- s: Stretch & Watering & Vacuuming & Breakfast & Garbage
