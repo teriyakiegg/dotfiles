@@ -11,4 +11,4 @@
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
-- s: Stretch & Watering & Breakfast
+- s: Stretch & Work & Watering & Breakfast
