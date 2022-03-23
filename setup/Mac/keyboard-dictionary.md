@@ -11,4 +11,4 @@
 - ま: ◎
 - み: →
 - め: teriyakiegg@gmail.com
-- s: Stretch & Work & Watering & Breakfast & Calendar & Russian news
+- s: Stretch & Work & Watering & Breakfast & Calendar & Notifications & Russian newsnews
