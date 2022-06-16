@@ -19,3 +19,6 @@
   - Pointer Control:
     - Trackpad Options:
       - scrolling speed: Fast
+  - Display
+    - Cursor
+      - Cursor size: Max
