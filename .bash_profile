@@ -23,6 +23,12 @@ export PATH="$GOROOT/bin:$PATH"
 export PATH="$PATH:$GOPATH/bin"
 
 # ====================
+# python
+# ====================
+
+export PATH="$HOME/Library/Python/3.8/bin:$PATH"
+
+# ====================
 # ruby
 # ====================
 
