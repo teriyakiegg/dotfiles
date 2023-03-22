@@ -1,11 +1,9 @@
 # Extensions
 
 - SearchPreview
-- Hacker Tab
 - AdBlock
-- EditThisCookie
 - Vue.js devtools
-- Octotree
+- daily.dev
 
 # Theme
 
