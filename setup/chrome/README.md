@@ -3,7 +3,8 @@
 - SearchPreview
 - AdBlock
 - Vue.js devtools
-- daily.dev
+- New Tab Redirect
+  - https://chat.openai.com/chat
 
 # Theme
 
