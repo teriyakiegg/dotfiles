@@ -30,7 +30,6 @@
     - uncheck all
 - Advanced
   - Input Options
-    - Format messages with markup: check
     - Show send button: check
   - Search options
     - CmdF starts a Slack search: check
