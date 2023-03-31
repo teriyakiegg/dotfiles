@@ -1,5 +1,6 @@
 # preferences
 - About unnecessary channels: leave or mute
+- Except for channels that you want to check without a Mention: leave
 - Notifications
   - Notify me about…: Direct messages, mentions & keywords
   - Sound & appearance
@@ -8,7 +9,7 @@
   - Language: English
 - Messages & Media
   - Theme
-    - Compact
+    - Clean
   - Names
     - Just display names
   - Additional options:
@@ -27,12 +28,9 @@
     - Priority: check
   - Always show in the sidebar:
     - uncheck all
-- Accessibility
-  - Zoom
-    - 70%
 - Advanced
   - Input Options
     - Format messages with markup: check
     - Show send button: check
-  - Download Location
-    - Desktop
+  - Search options
+    - CmdF starts a Slack search: check
