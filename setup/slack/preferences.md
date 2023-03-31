@@ -34,3 +34,5 @@
     - Show send button: check
   - Search options
     - CmdF starts a Slack search: check
+## Profile
+Name pronunciation: 緊急時は電話ください！OOO-OOOO-OOOO
