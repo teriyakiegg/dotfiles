@@ -14,3 +14,4 @@
 - Clipy
 - Skitch
 - Google Japanese Input
+- Slack
