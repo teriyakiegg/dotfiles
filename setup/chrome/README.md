@@ -3,6 +3,7 @@
 - SearchPreview
 - AdBlock
 - Vue.js devtools
+- Fake Filler
 
 # Theme
 
