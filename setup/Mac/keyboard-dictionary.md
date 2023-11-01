@@ -1,11 +1,5 @@
 # keyboard dictionary
-- う: ↑
-- け: └
 - さ: ▼
-- し: ↓
+- み: 三木本
 - み: →
 - め: teriyakiegg@gmail.com
-- ひ: ←
-- ま: ◎
-- み: →
-- み: 三木本
