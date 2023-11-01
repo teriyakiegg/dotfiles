@@ -17,9 +17,7 @@
   - Emoji
     - Convert my typed emoticons to emoji, so :D becomes :smile: : uncheck
 - Themes
-  - Sidebar theme
-    - Pokémon Slack theme generator: #483 Dialga
-    - http://pokeslack.xyz/
+  - Light & Mint Chip
 - Sidebar
   - Channels
     - Show
