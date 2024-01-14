@@ -1,7 +1,7 @@
 # Extensions
 
 - SearchPreview
-- AdBlock
+- AdGuard
 - Vue.js devtools
 - Fake Filler
 
