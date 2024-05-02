@@ -19,6 +19,6 @@
 - Ruby
 - Ruby Debug
 - Trailing Spaces
-- Vetur
+- Vue - Official
 - VSCode Ruby
 - vscode-icons
